@@ -87,7 +87,7 @@
     "endSurahName": "Al-Baqara",
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 48,
-    "ayahsCount": 11,
+    "ayahsCount": 11
     "juz": 1
   },
   {
@@ -140,7 +140,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 76,
     "ayahsCount": 7,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 12,
@@ -153,7 +153,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 83,
     "ayahsCount": 7,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 13,
@@ -166,7 +166,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 88,
     "ayahsCount": 5,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 14,
@@ -179,7 +179,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 93,
     "ayahsCount": 5,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 15,
@@ -192,7 +192,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 101,
     "ayahsCount": 8,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 16,
@@ -205,7 +205,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 105,
     "ayahsCount": 4,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 17,
@@ -218,7 +218,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 112,
     "ayahsCount": 7,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 18,
@@ -231,7 +231,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 119,
     "ayahsCount": 7,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 19,
@@ -244,7 +244,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 126,
     "ayahsCount": 7,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 20,
@@ -257,7 +257,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 134,
     "ayahsCount": 8,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 21,
@@ -270,7 +270,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 141,
     "ayahsCount": 7,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 22,
@@ -283,7 +283,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 145,
     "ayahsCount": 4,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 23,
