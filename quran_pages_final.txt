@@ -244,7 +244,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 126,
     "ayahsCount": 7,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 20,
@@ -283,7 +283,7 @@
     "endSurahNameArabic": "سُورَةُ البَقَرَةِ",
     "endAyah": 145,
     "ayahsCount": 4,
-    "juz": 2
+    "juz": 1
   },
   {
     "page": 23,
